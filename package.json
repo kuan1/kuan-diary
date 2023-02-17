@@ -1,0 +1,21 @@
+{
+  "name": "kuan-diary",
+  "version": "1.0.0",
+  "description": "2023.2.12，今天是入职小红书的542天，依然每天沉浸在工作中不能自拔。而且每天都在焦虑中，自己做的事情没有什么不可替代性，如果一天自己被辞退了，在内卷的行业中，自己的优势到底是什么。",
+  "main": "index.js",
+  "scripts": {
+    "new": "node ./scripts/new-diary",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuan1/kuan-diary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuan1/kuan-diary/issues"
+  },
+  "homepage": "https://github.com/kuan1/kuan-diary#readme"
+}
